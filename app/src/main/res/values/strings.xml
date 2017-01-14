@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">4040e064_hw02</string>
+    <string name="hint_etname">user name</string>
+    <string name="hint_etpasseord">password</string>
+    <string name="hint_etphone">phone number</string>
+    <string name="hint_etage">age</string>
+    <string name="text_submit">Subbit</string>
+    <string name="text_clear">Clear</string>
+    <string name="msg_ClearAllFields">Clear all the fields</string>
+</resources>
